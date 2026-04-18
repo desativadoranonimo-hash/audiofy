@@ -1,4 +1,4 @@
-const API_BASE = "http://localhost:3000/api";
+const API_BASE = "https://audiofy-7dmg.onrender.com/api";
 let currentUrl = "";
 
 // ─── Toast de erro (substitui alert()) ───────────────────────────────────────
